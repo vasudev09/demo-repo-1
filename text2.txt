@@ -5,3 +5,5 @@ added login page2
 added register page
 added register page
 added register page
+added dashboard page
+added dashboard page
